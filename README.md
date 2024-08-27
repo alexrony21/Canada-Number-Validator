@@ -1,5 +1,7 @@
 # Canada Number Validator
 
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/canada-number-validator/main/Canada_Number_Validator.png)
+
 ## Features
 
 1. **Unlimited Checking**: Validate as many phone numbers as you need without restrictions.
