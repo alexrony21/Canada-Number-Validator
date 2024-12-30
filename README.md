@@ -1,16 +1,21 @@
 # Canada Number Validator
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/canada-number-validator/main/Canada_Number_Validator.png)
+![image]()
 
-## Features
+### Features:
+- **5000 Number Check per Minute**: Fast and efficient number validation.
+- **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
+- **Filter Numbers By Type**: Includes Mobile, Landline, VOIP, and more.
+- **Filter Numbers By Carrier**: Check numbers by popular carriers such as T-Mobile, Verizon Wireless, and others.
+- **Bulk Import**: Import any quantity of phone numbers for validation.
+- **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
+- **Always Active Servers**: Reliable service with minimal downtime.
 
-1. **Unlimited Checking**: Validate as many phone numbers as you need without restrictions.
-2. **Fast Checking**: Efficient and quick processing to handle large lists with ease.
-3. **100% Accurate**: Reliable results based on the latest and most accurate data sets.
-4. **Latest DataSets**: Utilizes up-to-date databases to ensure accurate carrier identification.
-5. **Handles Large Number Lists**: Capable of processing extensive lists of phone numbers.
-6. **Supports All Carriers**: Compatible with all major carriers for comprehensive validation.
+---
 
-## Contact
+### Contact:
+To buy the service, contact me on Telegram: [@alexrony21](https://t.me/alexrony21)
 
-If you want to buy or have any questions, please contact me via Telegram: [alexrony21](https://t.me/alexrony21)
+---
+
+*Note: This service is designed to ensure accurate validation of USA phone numbers for businesses and marketers*
