@@ -1,6 +1,6 @@
 # Canada Number Validator
 
-![image]()
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Phone_Number_Validator.png)
 
 ### Features:
 - **5000 Number Check per Minute**: Fast and efficient number validation.
