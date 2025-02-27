@@ -1,7 +1,7 @@
 # Canada Number Validator
 
-![image]()
-![image]()
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Number_Validator.png)
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Number_Carrier_Name.png)
 
 ### Features:
 - **25k Number Check per Minute**: Fast and efficient number validation.
